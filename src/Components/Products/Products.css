@@ -1,0 +1,24 @@
+.product-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    text-align: left;
+}
+.cart-container{
+    background-color: rgb(192, 145, 27);
+    padding: 15px 50px;
+    border-radius: 10px;
+    position: fixed;
+    right: 10px;
+    top: 220px;
+}
+.search-filed{
+    background-color: rgba(0, 0, 0, 0.774);
+    line-height: 60px;
+}
+.input-filed{
+    width: 75%;
+    padding: 5px;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+}

@@ -1,0 +1,28 @@
+.shop-container{
+    border-right: 1px solid rgba(0, 0, 0, 0.450);
+}
+.product{
+    display: flex;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.450);
+    margin-right: 10px;
+    margin-left: 40px;
+    padding: 10px;
+}
+.product-content{
+    margin-left: 20px;
+}
+.regular-btn{
+    background-color: goldenrod;
+    border: 1px solid rgb(75, 73, 73);
+    padding: 4px 60px;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: .4s;
+}
+.regular-btn:hover{
+    background-color: rgb(173, 129, 16);
+}
+.star-icon{
+    color: tomato;
+}

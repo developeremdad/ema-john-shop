@@ -1,0 +1,25 @@
+.cart-header{
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+.cart-container{
+    margin: 0px 10px;
+}
+.btn-container{
+    text-align: center;
+}
+.order-btn{
+    background-color: rgba(113, 195, 6, 0.856);
+    border: 2px solid rgba(2, 117, 117, 0.835);
+    padding: 5px 30px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: medium;
+    transition: .5s;
+}
+.order-btn:hover{
+    background-color: rgba(2, 117, 117, 0.835);
+    border: 2px solid rgba(113, 195, 6, 0.856);
+    color: #ddd;
+}
