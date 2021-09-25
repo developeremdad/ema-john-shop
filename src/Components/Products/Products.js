@@ -1,6 +1,5 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import Cart from './Cart/Cart';
-import { useEffect } from 'react/cjs/react.development';
 import './Products.css';
 import Shop from './Shop/Shop';
 
